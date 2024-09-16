@@ -1,4 +1,4 @@
-import "../styles/CVForm.css"
+import "../styles/CVform.css"
 import { ProfilePicture } from "./EditForm/ProfilePicture";
 import { General } from "./EditForm/General";
 import { Education } from "./EditForm/Education";
